@@ -1,4 +1,4 @@
-package factorymethod;
+package factorymethod.first;
 
 public class ExpansionTaskFactory implements TaskFactory {
     @Override

@@ -1,4 +1,4 @@
-package factorymethod;
+package factorymethod.first;
 
 public class LocationInfoTaskFactory implements TaskFactory {
     @Override
